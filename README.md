@@ -36,15 +36,16 @@ With Evento we are automating and digitalizing Event Management and solving all 
 ### HomePage
 ![image](https://user-images.githubusercontent.com/61822515/131075835-430880a0-a533-4924-9797-841e258e4346.png)
 
+### Event Page 
+![image](https://user-images.githubusercontent.com/61822515/131090510-9df03164-8b7e-4736-bdd8-d0c2b5d69f79.png)
+
 ### Completely Responsive
 ![image](https://user-images.githubusercontent.com/61822515/131075994-c5c3815c-9248-4652-a609-999b7c8a80bd.png)
 ![image](https://user-images.githubusercontent.com/61822515/131075970-35a8ff53-f3d2-441f-b79a-c64a3c8f2718.png)
-
-### Event Info Section 
-ye lagani hai 
 
 ### Creating Task Section
 ![image](https://user-images.githubusercontent.com/61822515/131076153-be02b6b5-848f-476a-9d00-6b57bf22df37.png)
 
 ### Transaction Logs section
-ye lagani hai 
+![image](https://user-images.githubusercontent.com/61822515/131090810-5bba8aa7-7681-456e-94a1-62accad939f2.png)
+
