@@ -1,0 +1,37 @@
+.userTransLog {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 5px;
+  margin: 10px 5px;
+  border-bottom: 1px solid #eee;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.userTransLog__left {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.userTransLog__left__details {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.userTransLog__right {
+  text-align: right;
+}
+
+.userTransLog__right__time {
+  font-size: 0.8rem;
+  margin-top: 7px;
+  color: gray;
+}
+
+.userTransLog__left__amount {
+  color: green;
+  font-weight: 700;
+  margin-top: 7px;
+}

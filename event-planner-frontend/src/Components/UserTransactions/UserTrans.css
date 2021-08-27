@@ -1,0 +1,67 @@
+.userTrans {
+  text-align: center;
+}
+
+.userTrans__details {
+  background-color: rgba(37, 99, 235, 0.84);
+  /* background-color: #002366; */
+  color: #fff;
+  border-radius: 20px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+.userTrans__expenses {
+  padding: 20px;
+}
+
+.userTrans__totalExpense {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  color: #fff700;
+}
+
+.userTrans__receievedAmount {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #26ff3c;
+}
+
+.userTrans__totalExpense > p {
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
+}
+
+.userTrans__receievedAmount > p {
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
+}
+
+.userTrans__logs {
+  height: 39vh;
+  overflow-y: auto;
+  margin-top: 10px;
+}
+.userTrans__logs::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.userTrans__logs::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.1);
+}
+.userTrans__logs::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background: rgba(0, 0, 0, 0.2);
+}
+.userTrans__logs::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.4);
+}
+.userTrans__logs::-webkit-scrollbar-thumb:active {
+  background: rgba(0, 0, 0, 0.9);
+}
