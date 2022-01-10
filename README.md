@@ -23,7 +23,7 @@ With Evento we are automating and digitalizing Event Management and solving all 
 
 ## To run our app follow these steps :
 
-1) Clone this repo :  {link} , make sure you have docker installed in your Pc. if not installed already install it from here https://www.docker.com/get-started
+1) Clone this repo : make sure you have docker installed in your Pc. if not installed already install it from here https://www.docker.com/get-started
 
 2) open terminal in the root directory of the cloned repo and run "docker-compose build"
 
