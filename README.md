@@ -51,3 +51,6 @@ With Evento we are automating and digitalizing Event Management and solving all 
 ### Transaction Logs section
 ![image](https://user-images.githubusercontent.com/61822515/131090810-5bba8aa7-7681-456e-94a1-62accad939f2.png)
 
+# View Video Demo here 
+[Evento Demo Video](https://youtu.be/0EZ8t_slxsY)
+
