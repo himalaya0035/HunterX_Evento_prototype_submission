@@ -19,7 +19,7 @@ P5 - Reminding People of their responsibilities and so much more
 With Evento we are automating and digitalizing Event Management and solving all the problems described above.
 
 # View Video Demo here 
-[https://youtu.be/0EZ8t_slxsY](Demo Video)
+[Evento Demo Video](https://youtu.be/0EZ8t_slxsY)
 
 ## To run our app follow these steps :
 
